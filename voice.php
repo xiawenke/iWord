@@ -3,9 +3,9 @@
 require_once './tools/baidu_AipSpeech/AipSpeech.php';
 
 // 定义常量
-const APP_ID = '9872531';
-const API_KEY = 'XxsuD69nLw45PiscsZOAXwKB';
-const SECRET_KEY = 'AbGeWT02GLV84Od0wLjU2NL1HMsqTFhs';
+const APP_ID = '';
+const API_KEY = '';
+const SECRET_KEY = '';
 
 // 初始化AipSpeech对象
 $aipSpeech = new AipSpeech(APP_ID, API_KEY, SECRET_KEY);
